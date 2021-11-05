@@ -8,7 +8,6 @@
   /* background-color: red; */
   justify-items: space-between;
   align-items: start;
-  
 }
 
 .image-content {
@@ -19,10 +18,9 @@
 .form-control1 {
   grid-column: span 1;
   margin-left: 300px;
-   /* background-color: blue; */
-   margin-top: 20px;
-   min-width: 300px;
-
+  /* background-color: blue; */
+  margin-top: 20px;
+  min-width: 300px;
 }
 
 .form-control2 {
@@ -36,17 +34,16 @@
   justify-content: flex-end;
   align-content: center;
 }
-.btn1{
+.btn1 {
   margin-right: 100px;
-   width: 650px;
-   height: 50px;
-   border-radius: 5px;
-   background-color: rgb(15, 70, 221);;
-   color:white;
-   height: 60px ;
-   font-weight: 900;
-   font-size: 20px;
-   
+  width: 650px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgb(15, 70, 221);
+  color: white;
+  height: 60px;
+  font-weight: 900;
+  font-size: 20px;
 }
 
 .input-field {
@@ -65,13 +62,12 @@
   display: inline-block;
 }
 
-
-.radio-container{
+.radio-container {
   /* background-color: coral; */
   display: flex;
   justify-content: center;
   align-content: center;
-  right:0px
+  right: 0px;
 }
 
 .container {
@@ -79,38 +75,33 @@
   padding-bottom: 20px;
 }
 
-.p{
+.p {
   font-size: 15px;
-  font-weight: bolder ;
+  font-weight: bolder;
 }
 
-@media screen 
-  and (min-device-width: 300px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1) { 
-    .content-container {
-      
-      display: grid;
-      grid-template-columns: 100px;
-      grid-template-rows: 1fr 1fr 1fr 1fr;
-      height: 1000px;
-    }
-    .image-content {
-      margin-left: 30px;
-    }
-    .form-control1 {
-      margin-left: 60px;
-    }
-    .form-control2{
-      margin-left: 60px;
-      margin-top: -60px;
-    }
-    .radio-container {
-      margin-left: -390px;
-      margin-top: -360px;
-      
-    }
-    .btn0{
-      margin-left: 100px;
-    }
+@media screen and (min-device-width: 300px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
+  .content-container {
+    display: grid;
+    grid-template-columns: 100px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    height: 1000px;
+  }
+  .image-content {
+    margin-left: 30px;
+  }
+  .form-control1 {
+    margin-left: 60px;
+  }
+  .form-control2 {
+    margin-left: 60px;
+    margin-top: -60px;
+  }
+  .radio-container {
+    margin-left: -390px;
+    margin-top: -360px;
+  }
+  .btn0 {
+    margin-left: 100px;
+  }
 }
