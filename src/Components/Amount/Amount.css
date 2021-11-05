@@ -1,0 +1,47 @@
+.amount-container {
+  display: flex;
+  height: 200px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  
+
+}
+.amount-name {
+  margin-left: 50px;
+  padding: 20px 20px;
+  height: 150px;
+}
+
+.amount-numb {
+  margin-right: 50px;
+}
+
+.amount-item {
+  margin: 0px 20px;
+  padding: 10px;
+  font-weight: bolder;
+  
+}
+.amount-numb {
+  margin: 50px;
+  padding: 50px;
+  font-weight: bold;
+  
+}
+.each {
+
+  padding: 10px 0px;
+  height: 40px;
+}
+
+@media screen 
+  and (min-device-width: 300px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .amount-container {
+      display: flex;
+      justify-content: center;
+      align-content: center;
+    }
+  }

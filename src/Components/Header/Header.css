@@ -1,0 +1,92 @@
+
+.header-container {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: 200px;
+  /* background-color: rosybrown; */
+  justify-content: space-between;
+}
+
+.header-image {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+}
+.header-img{
+  margin-right: 50px;
+}
+
+.h2 {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+.p {
+  margin-left: 100px;
+}
+
+.visa {
+  margin-right: 20px;
+}
+
+.discover {
+  margin-right: 50px;
+}
+.box {
+  margin-right: 10px;
+  border-radius: 50%;
+}
+.paypal {
+  margin-right: 10px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .header-container {
+    position: relative;
+    overflow-wrap: break-word;
+    
+
+  }
+
+  .header-content {
+    /* background-color: green; */
+    
+    width: 500px;
+    
+  }
+  .h2{
+    margin-right: 200px;
+
+  }
+  .header-image{
+    margin-left: 10px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+  .p{
+    display: inline-block;
+    white-space: nowrap;
+  }
+}
+
+
+@media screen 
+  and (min-device-width: 300px) 
+  and (max-device-width: 1000px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .header-image {
+    margin-right: 100px;
+    margin-left: 10px;
+    background-color: red;
+    }
+
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
