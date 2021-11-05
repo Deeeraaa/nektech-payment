@@ -24,17 +24,16 @@
   
 }
 .amount-numb {
-  margin: 50px;
+  margin: -170px;
   padding: 50px;
   font-weight: bold;
   
 }
 .each {
-  background-color: red;
   padding: 10px 20px;
   height: 40px;
    margin-right: -100px;
-   margin-left: 0px;
+   margin-left: -50px
 }
 .each1{
   
