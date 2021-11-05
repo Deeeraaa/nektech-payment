@@ -89,7 +89,7 @@
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 1) { 
     .content-container {
-      background-color: green;
+      
       display: grid;
       grid-template-columns: 100px;
       grid-template-rows: 1fr 1fr 1fr 1fr;
