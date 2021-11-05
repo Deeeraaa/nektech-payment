@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nektech-payment/static/css/main.4b1176da.chunk.css",
-    "main.js": "/nektech-payment/static/js/main.578b0cbe.chunk.js",
-    "main.js.map": "/nektech-payment/static/js/main.578b0cbe.chunk.js.map",
+    "main.css": "/nektech-payment/static/css/main.5dfde2a8.chunk.css",
+    "main.js": "/nektech-payment/static/js/main.e7afc4f3.chunk.js",
+    "main.js.map": "/nektech-payment/static/js/main.e7afc4f3.chunk.js.map",
     "runtime-main.js": "/nektech-payment/static/js/runtime-main.6585845b.js",
     "runtime-main.js.map": "/nektech-payment/static/js/runtime-main.6585845b.js.map",
     "static/js/2.aea2c064.chunk.js": "/nektech-payment/static/js/2.aea2c064.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.47ebddd7.chunk.js": "/nektech-payment/static/js/3.47ebddd7.chunk.js",
     "static/js/3.47ebddd7.chunk.js.map": "/nektech-payment/static/js/3.47ebddd7.chunk.js.map",
     "index.html": "/nektech-payment/index.html",
-    "static/css/main.4b1176da.chunk.css.map": "/nektech-payment/static/css/main.4b1176da.chunk.css.map",
+    "static/css/main.5dfde2a8.chunk.css.map": "/nektech-payment/static/css/main.5dfde2a8.chunk.css.map",
     "static/js/2.aea2c064.chunk.js.LICENSE.txt": "/nektech-payment/static/js/2.aea2c064.chunk.js.LICENSE.txt",
     "static/media/card.a711d700.png": "/nektech-payment/static/media/card.a711d700.png",
     "static/media/visa-img.c7307582.PNG": "/nektech-payment/static/media/visa-img.c7307582.PNG"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.6585845b.js",
     "static/js/2.aea2c064.chunk.js",
-    "static/css/main.4b1176da.chunk.css",
-    "static/js/main.578b0cbe.chunk.js"
+    "static/css/main.5dfde2a8.chunk.css",
+    "static/js/main.e7afc4f3.chunk.js"
   ]
 }
