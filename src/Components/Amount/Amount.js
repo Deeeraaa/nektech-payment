@@ -15,19 +15,19 @@ export default function Amount() {
           </div>
 
           <div className="amount-item">
-            <span className="PC">bbbPromotional Code:Z4KXLM9A</span>
+            <span className="PC">Promotional Code:Z4KXLM9A</span>
           </div>
         </div>
 
         <div className="amount-numb">
           <div className="each">
-            <span>₦2,497.00</span>
+            <span className="each1">₦2,497.00</span>
           </div>
           <div className="each">
-            <span  >₦2,497.00</span>
+            <span  className="each1">₦2,497.00</span>
           </div>
           <div className="each">
-            <span >₦2,497.00</span>
+            <span  className="each1">₦2,497.00</span>
           </div>
         </div>
       </div>

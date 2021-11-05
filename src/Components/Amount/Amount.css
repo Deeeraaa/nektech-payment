@@ -8,13 +8,13 @@
 
 }
 .amount-name {
-  margin-left: 50px;
+  margin-left: -200px;
   padding: 20px 20px;
   height: 150px;
 }
 
 .amount-numb {
-  margin-right: 50px;
+  margin-left: 100px;
 }
 
 .amount-item {
@@ -30,9 +30,15 @@
   
 }
 .each {
-
-  padding: 10px 0px;
+  background-color: red;
+  padding: 10px 20px;
   height: 40px;
+   margin-right: -100px;
+   margin-left: 0px;
+}
+.each1{
+  
+ margin-left: 00px 
 }
 
 @media screen 
@@ -41,7 +47,13 @@
   and (-webkit-min-device-pixel-ratio: 1) { 
     .amount-container {
       display: flex;
-      justify-content: center;
+      justify-content: space-around;
       align-content: center;
-    }
+    } 
+    /* .amount-numb {
+        margin: 100px;
+        padding: 50px;
+        font-weight: bold;
+  
+} */
   }

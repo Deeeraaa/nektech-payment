@@ -55,12 +55,11 @@ hr {
 }
 
 .nav-container {
-  /* background-color: green; */
+
   margin-right: 0px;
   padding: 50px;
 }
 
-/* Extra small devices (phones, 600px and down) */
 
 
 @media only screen and (max-width: 600px) {
@@ -119,7 +118,6 @@ ul {
     overflow-x: hidden !important;
 }
   .NavbarItems {
-    /* background-color: green; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -179,7 +177,6 @@ ul {
   }
 
   .img-navbar {
-  /* background-color: red; */
   height: 30px;
   width: 30px;
   border-radius: 50%;
@@ -241,7 +238,6 @@ ul {
   width: 70vw;
   justify-content: end;
   margin-right: 0;
-  /* background-color: red; */
   margin-right: 0;
 }
 
@@ -273,7 +269,6 @@ hr {
 }
 
 .nav-container {
-  /* background-color: green; */
   margin-right: 0px;
   padding: 50px;
 }
