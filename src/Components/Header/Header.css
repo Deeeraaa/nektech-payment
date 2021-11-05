@@ -22,6 +22,7 @@
   margin-left: 100px;
 }
 .p {
+  color: burlywood;
   margin-left: 100px;
 }
 
@@ -81,7 +82,6 @@
     .header-image {
     margin-right: 100px;
     margin-left: 10px;
-    background-color: red;
     }
 
     
